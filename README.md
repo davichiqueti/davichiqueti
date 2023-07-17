@@ -1,4 +1,4 @@
-### Bem vindo ao meu Git Hub! Eu me chamo Davi Chiqueti
+### Eu sou o Davi Chiqueti. Seja bem vindo ao meu GitHub!
 
 ## Sobre mim
 - Apaixonado por tecnologia desde pequeno
