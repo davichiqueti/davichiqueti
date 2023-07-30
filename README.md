@@ -10,4 +10,4 @@
 * *SQL*: Comandos de DDL, DML e DQL
 * Entendimento do funcionamento básico da Web
 
-> Atualmente estou aprendendo SQL, MySQL e JavaScript
+> Atualmente me aprofundando em SQLe MySQL e aprendendo JavaScript e Node.js
