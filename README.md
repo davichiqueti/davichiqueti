@@ -6,5 +6,5 @@
 
 ### Linguagens e Tecnologias
 
-- *Python*  | Requisições HTTP com Requests e Análise de dados com Pandas
-- *SQL*     | Comandos de DDL, DML e DQL
+- *Python*: Requisições HTTP com Requests e Análise de dados com Pandas
+- *SQL*: Comandos de DDL, DML e DQL
