@@ -1,7 +1,7 @@
 ### Eu sou o Davi Chiqueti. Seja bem vindo ao meu GitHub
 
 ## Sobre mim
-- Cursando Bacharelado em Sistemas de Informação na Universidade Federal Catarinense
+- Cursando Bacharelado em Sistemas de Informação na Universidade Federal de Santa Catarina
 - Atuando como auxilar de e-commerce. Utilizando desenvolvimento em python para automações
 
 ### Linguagens e Tecnologias
