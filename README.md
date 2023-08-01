@@ -7,7 +7,7 @@
 ### Linguagens e Tecnologias
 
 * *Python*: Requisições HTTP com Requests e Análise de dados com Pandas
-* *SQL*: Comandos de DDL, DML e DQL
+* *SQL*
 * Entendimento do funcionamento básico da Web
 
 > Atualmente estou aprendendo SQL, MySQL, JavaScript e Node.js
