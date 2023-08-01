@@ -10,4 +10,4 @@
 * *SQL*
 * Entendimento do funcionamento básico da Web
 
-> Atualmente estou aprendendo SQL, MySQL, JavaScript e Node.js
+> Atualmente estou aprendendo MySQL, JavaScript e Node.js
