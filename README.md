@@ -8,6 +8,5 @@
 
 * *Python*: Requisições HTTP com Requests e Análise de dados com Pandas
 * *SQL*
-* Entendimento do funcionamento básico da Web
 
 > Atualmente estou aprendendo MySQL, JavaScript e Node.js
