@@ -10,4 +10,4 @@
 * *SQL*
 > Atualmente estou aprendendo MySQL, JavaScript e Node.js
 
-## Confira meu númrero real de commits: [Perfil Empresarial](https://github.com/davichiquetihooklab)
+## Perfil para uso profissional: [Perfil Empresarial](https://github.com/davichiquetihooklab)
