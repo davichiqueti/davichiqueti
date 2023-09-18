@@ -8,5 +8,6 @@
 
 * *Python*: Requisições HTTP com Requests e Análise de dados com Pandas
 * *SQL*
-
 > Atualmente estou aprendendo MySQL, JavaScript e Node.js
+
+## Confira meu númrero real de commits: [Perfil Empresarial](https://github.com/davichiquetihooklab)
