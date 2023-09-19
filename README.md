@@ -8,6 +8,6 @@
 
 * *Python*: Requisições HTTP com Requests e Análise de dados com Pandas
 * *SQL*
-> Atualmente estou aprendendo MySQL, JavaScript e Node.js
+> Atualmente estou aprendendo JavaScript e Node.js
 
-## Perfil para uso profissional: [Perfil Empresarial](https://github.com/davichiquetihooklab)
+### Número de contribuições profissionais Disponíveis aqui: [Perfil Empresarial](https://github.com/davichiquetihooklab)
