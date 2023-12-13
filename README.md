@@ -1,8 +1,6 @@
-### Eu sou o Davi Chiqueti. Seja bem vindo ao meu GitHub!
-
-## Sobre mim
-- Cursando Bacharelado em Sistemas de Informação na Universidade Federal de Santa Catarina
-- Estágiario em Desenvolvimento Python na [Hooklab](https://hooklab.com.br/)
+## About Me
+- Attending Bachelor's degree in Information Systems at the Federal University of Santa Catarina.
+- Python Developer on [Hooklab](https://hooklab.com.br/)
 
 ### Hard Skills
 
@@ -14,4 +12,4 @@
 * *Pandas*
 * *Postgresql*
 
-### Número de contribuições profissionais Disponíveis aqui: [Perfil Empresarial](https://github.com/davichiquetihooklab)
+> 👔 Check my professional contributions number: [Company Profile](https://github.com/davichiquetihooklab)
